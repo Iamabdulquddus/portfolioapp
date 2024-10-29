@@ -19,6 +19,7 @@
     "react-water-wave": "^2.0.1",
     "slick-carousel": "^1.8.1",
     "swiper": "^8.4.5",
+    "sass": "^1.80.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -46,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "@iconify/react": "^4.0.0",
-    "node-sass": "^7.0.3"
+    "@iconify/react": "^4.0.0"
   }
 }
